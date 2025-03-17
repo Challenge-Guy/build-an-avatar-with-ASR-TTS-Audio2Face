@@ -85,10 +85,6 @@ Execute the .ipynb notebook file named  ***1.Creating_a_simple_avatar.ipynb***, 
 
 ## Creators
 
-**Renton Hsu**
-
-- [Linkedin](https://www.linkedin.com/in/renton-hsu-bba5a0102)
-- [Facebook](https://www.facebook.com/renton.hsu/)
 
 
 
